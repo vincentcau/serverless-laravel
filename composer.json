@@ -1,0 +1,16 @@
+{
+  "name": "vincentcau/serverless-laravel",
+  "type": "library",
+  "description": "prepare project to deploys owith serverless on aws",
+  "keywords": ["aws","laravel","serverless","deploy"],
+  "homepage": "",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vincent Cau",
+      "email": "vincent.cau@gmail.com",
+      "homepage": "",
+      "role": "CTO"
+    }
+  ],
+}
